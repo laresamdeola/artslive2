@@ -10,7 +10,7 @@
 }
 
 .home {
-  background-color: var(--art-grey);
+  background-color: white;
 }
 
 .logo {
@@ -32,7 +32,7 @@
 }
 
 .title-hover:hover {
-  text-shadow: 2px 2px 5px var(--art-cobalt);
+  text-shadow: 0.25px 0.25px 1px rgba(22, 15, 49, 0.15);
 }
 
 .byline {
